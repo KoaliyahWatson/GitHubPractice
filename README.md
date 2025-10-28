@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<header> Module 9</header>
+<header> Fun Times Coding </header>
 <body>
 <h1>Module 9 - Learning GitHub</h1>
 <h2> Koaliyah Watson-Sanderlin, October 27, 2025</h2>
